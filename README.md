@@ -8,6 +8,8 @@ machine-checkable interpretation of those notes and a valid minimum-cost
 
 Stdlib-only Go (`net/http`, no web framework, no solver dependencies).
 
+Link: http://20.196.201.41/optimize-energy
+
 ## Architecture: LLM → deterministic guardrails → optimizer
 
 ```
